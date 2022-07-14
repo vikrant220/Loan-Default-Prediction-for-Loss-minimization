@@ -2,7 +2,7 @@
 
 **Title: Loan Default Prediction for Loss minimization**
 
-**Ayush Garg Pranansh Goyal Vasudev Singhal** ayush19030@iiitd.ac.in pranansh19073@iiitd.ac.in vasudev19126@iiitd.ac.in
+**Ayush Garg Pranansh Goyal Vasudev Singhal Vikrant** ayush19030@iiitd.ac.in pranansh19073@iiitd.ac.in vasudev19126@iiitd.ac.in vikrant19398@iiitd.ac.in
 
 1  **Abstract**
 
